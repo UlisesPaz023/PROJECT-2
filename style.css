@@ -30,19 +30,10 @@
   bottom: 20%;
 }
 
-@media screen and (min-width: 768px) and (max-width: 1239px){
-  .sectionCards{
-    display: grid;
-    grid-template: auto auto / auto auto;
-    margin: 0;
-  }
-}
-
 @media screen and (min-width: 1240px){
   .cardsTitle{
     width: 1216px;
     margin: 0 auto;
-    text-align: start !important;
   }
 
   .stars,
